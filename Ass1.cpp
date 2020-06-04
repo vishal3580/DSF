@@ -1,6 +1,6 @@
 /* 
-Yogita Misal
-Roll No:27092
+Vishal gaikwad
+Roll No:27090
 Implement stack as an abstract data type using linked list and use this ADT for conversion of 
 infix expression to postfix, prefix and evaluation of postfix and prefix expression. 
 */ 
